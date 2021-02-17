@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cintoros&count_private=true&show_icons=true&include_all_commits=true"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintoros&layout=compact"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintoros&layout=compact&langs_count=10"/></a>
 </p>
 
 <!--
